@@ -1,0 +1,2 @@
+ctrl + ; = comentario
+Alt + z = quebra de linha no vscode
